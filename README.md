@@ -25,8 +25,10 @@
 
 ### Languages and Tools 🛠 
 
-![C#](https://img.shields.io/badge/-C%23-purple)
-![.NET](https://img.shields.io/badge/-.NET-blue)
+![C#](https://img.shields.io/badge/-%23-purple?logo=c#)
+![.NET](https://img.shields.io/badge/-.NET-blue?logo=.NET)
+![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?logo=ruby-on-rails)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -42,10 +44,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=HollowLukeDias&show_icons=true&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=HollowLukeDias&show_icons=true&theme=tokyonight" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowLukeDias&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowLukeDias&theme=tokyonight&line_height=40&hide=shaderlab"/>
     </a>
 </div
 
