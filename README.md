@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HollowLukeDias&repo=HollowLukedias&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LukeDias42&repo=LukeDias42&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
@@ -44,10 +44,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=HollowLukeDias&show_icons=true&theme=tokyonight&count_private=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LukeDias42&show_icons=true&theme=tokyonight&count_private=true" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowLukeDias&theme=tokyonight&line_height=40&hide=shaderlab&count_private=true"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&theme=tokyonight&line_height=40&hide=shaderlab&count_private=true"/>
     </a>
 </div
 
