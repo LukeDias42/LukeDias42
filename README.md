@@ -1,14 +1,14 @@
-# Hi there, I'm Luke Dias - <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# <img width="150px" src="https://www.askideas.com/media/07/Hello-Animated-Header-Image.gif" /> , I'm Luke Dias
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Software Engineering student who loves C#
 
-- 👨‍💻 I’m currently looking for a job where I can use C#.
-- 🌱 I’m currently learning Data Structures and Algorithms 😅
-- 💪🏼 Future Goals: Study DDD, Study TDD, Study More Design Patterns, Study, Study and Study! <3
-- ⚡ Other Interests: I love to read and to play videogames!
-- 👯 I’m looking to collaborate on anything! But I would love a Game Development project!
+- 👨‍💻 I’m currently working for Stone Co. as a C# Developer!.
+- 🌱 I’m currently Design Patterns.
+- 💪🏼 Future Goals: Study DDD, TDD, Multithreading, and the some more stuff! <3
+- ⚡ Other Interests: I love reading Sci-Fi and Fantasy Fiction, playing videogames and  watching movies!
+- 👯 I’m currently doing a Game Development side project with some friends using Unity 3D!
 
 ---
 
