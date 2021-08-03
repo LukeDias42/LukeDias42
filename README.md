@@ -5,10 +5,9 @@
 ## I'm a Software Engineering student who loves C#
 
 - 👨‍💻 I’m currently working for Stone Co. as a C# Developer!.
-- 🌱 I’m currently Design Patterns.
+- 🌱 I’m currently studying Design Patterns.
 - 💪🏼 Future Goals: Study DDD, TDD, Multithreading, and the some more stuff! <3
 - ⚡ Other Interests: I love reading Sci-Fi and Fantasy Fiction, playing videogames and  watching movies!
-- 👯 I’m currently doing a Game Development side project with some friends using Unity 3D!
 
 ---
 
