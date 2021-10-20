@@ -15,7 +15,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="HollowWizard | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="HollowWizard | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
 [<img align="left" alt="HollowWizard | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 
 <br />
