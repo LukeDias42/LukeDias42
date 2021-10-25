@@ -24,7 +24,7 @@
 
 ### Languages and Tools 🛠 
 
-![C#](https://img.shields.io/badge/-%23-purple?logo=c#)
+![C#](https://img.shields.io/badge/-%23-purple?logo=C#)
 ![.NET](https://img.shields.io/badge/-.NET-blue?logo=.NET)
 ![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?logo=ruby-on-rails)
