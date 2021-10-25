@@ -1,12 +1,12 @@
-# <img width="150px" src="https://www.askideas.com/media/07/Hello-Animated-Header-Image.gif" /> , I'm Luke Dias
+# Hello , I'm Luke Dias
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Software Engineering student who loves C#
+## I'm a Software Engineering Student who loves Programming
 
 - 👨‍💻 I’m currently working for Stone Co. as a C# Developer!.
-- 🌱 I’m currently studying Design Patterns.
-- 💪🏼 Future Goals: Study DDD, TDD, Multithreading, and the some more stuff! <3
+- 🌱 I’m currently studying [Microservices in .NET](https://www.manning.com/books/microservices-in-net-second-edition?utm_source=twitter&utm_medium=organic&utm_campaign=book_horsdal_microservices_3_11_20).
+- 💪🏼 Future Study Goals: DDD, TDD, Functional Programming, Assembly, Architecture, Clean Code, Concurrency
 - ⚡ Other Interests: I love reading Sci-Fi and Fantasy Fiction, playing videogames and  watching movies!
 
 ---
