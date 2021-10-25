@@ -46,7 +46,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=LukeDias42&show_icons=true&theme=tokyonight&count_private=true" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&theme=tokyonight&line_height=40&hide=shader,html&count_private=true"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&theme=tokyonight&line_height=40&hide=shader,scss,html,css&count_private=true"/>
     </a>
 </div
 
