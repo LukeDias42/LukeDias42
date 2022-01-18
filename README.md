@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineering Student who loves Programming
 
-- 👨‍💻 I’m currently working for Stone Co. as a C# Developer!.
+- 👨‍💻 I’m currently working for [Zerezes](https://zerezes.com.br/pages/sobre) as a C# Developer!.
 - 🌱 I’m currently studying [Microservices in .NET](https://www.manning.com/books/microservices-in-net-second-edition?utm_source=twitter&utm_medium=organic&utm_campaign=book_horsdal_microservices_3_11_20).
 - 💪🏼 Future Study Goals: DDD, TDD, Functional Programming, Assembly, Architecture, Clean Code, Concurrency
 - ⚡ Other Interests: I love reading Sci-Fi and Fantasy Fiction, playing videogames and  watching movies!
