@@ -1,8 +1,9 @@
 # Hello , I'm Luke Dias
 
+<img align="right" alt="GIF" height="160px" src="https://media3.giphy.com/media/qeLWzpr90oheh8Ugzt/giphy.gif?cid=790b7611c683f4351ae62ac1e7c813e1f5f06cb0c1318402&rid=giphy.gif&ct=g" />
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Software Engineering Student who loves Programming
+## I'm a Software Engineer!
 
 - 👨‍💻 I’m currently working for [Zerezes](https://zerezes.com.br/pages/sobre) as a C# Developer!.
 - 🌱 I’m currently studying [Microservices in .NET](https://www.manning.com/books/microservices-in-net-second-edition?utm_source=twitter&utm_medium=organic&utm_campaign=book_horsdal_microservices_3_11_20).
@@ -16,7 +17,6 @@
 ### Contact with me 📝
 
 [<img align="left" alt="HollowWizard | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
-[<img align="left" alt="HollowWizard | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 
 <br />
 
@@ -26,8 +26,6 @@
 
 ![C#](https://img.shields.io/badge/-%23-purple?logo=C#)
 ![.NET](https://img.shields.io/badge/-.NET-blue?logo=.NET)
-![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?logo=ruby-on-rails)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
