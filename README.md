@@ -17,20 +17,25 @@
 ### Contact with me 📝
 
 [<img align="left" alt="HollowWizard | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
+[<img align="left" alt="HollowWizard | WhatsApp" height="30px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png"/>][whatsapp]
+[<img align="left" alt="HollowWizard | LinkedIn" height="30px" src="https://user-images.githubusercontent.com/51720084/192867359-5ef9a19d-fff1-483f-b1b0-388c37a2a406.png"/>][medium]
 
 <br />
 
 ---
 
 ### Languages and Tools 🛠 
-
-![C#](https://img.shields.io/badge/-%23-purple?logo=C#)
-![.NET](https://img.shields.io/badge/-.NET-blue?logo=.NET)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+</div>
 <br/>
 
 ---
@@ -50,5 +55,6 @@
 
 <br/>
 
-[instagram]: https://www.instagram.com/ged_fenrirluke/
-[linkedin]: https://www.linkedin.com/in/lucasdiasufrj/
+[linkedin]: https://www.linkedin.com/in/lukedias/
+[whatsapp]: https://wa.me/5521983448013
+[medium]: https://medium.com/@lhollowwizard
