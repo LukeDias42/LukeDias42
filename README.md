@@ -1,4 +1,4 @@
-# Hello , I'm Luke Dias
+# Hello , I'm Luke Dias ✨
 
 <img align="right" alt="GIF" height="160px" src="https://media3.giphy.com/media/qeLWzpr90oheh8Ugzt/giphy.gif?cid=790b7611c683f4351ae62ac1e7c813e1f5f06cb0c1318402&rid=giphy.gif&ct=g" />
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -10,19 +10,13 @@
 - 💪🏼 Future Study Goals: DDD, TDD, Functional Programming, Assembly, Architecture, Clean Code, Concurrency
 - ⚡ Other Interests: I love reading Sci-Fi and Fantasy Fiction, playing videogames and  watching movies!
 
----
-
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LukeDias42&repo=LukeDias42&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
-
 [<img align="left" alt="HollowWizard | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
 [<img align="left" alt="HollowWizard | WhatsApp" height="30px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png"/>][whatsapp]
 [<img align="left" alt="HollowWizard | LinkedIn" height="30px" src="https://user-images.githubusercontent.com/51720084/192867359-5ef9a19d-fff1-483f-b1b0-388c37a2a406.png"/>][medium]
-
-<br />
-
----
+<br/>
 
 ### Languages and Tools 🛠 
 <div style="display: inline_block"><br>
@@ -38,22 +32,15 @@
 </div>
 <br/>
 
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LukeDias42&show_icons=true&theme=tokyonight&count_private=true" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&theme=tokyonight&line_height=40&hide=shader,scss,html,css&count_private=true"/>
-    </a>
+### Github Statistics 📈
+<div align="center"> 
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LukeDias42&show_icons=true&theme=tokyonight&count_private=true" />
+  </a>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&theme=tokyonight&line_height=40&hide=shader,scss,html,css&count_private=true"/>
+  </a>
 </div
-
-<br/>
 
 [linkedin]: https://www.linkedin.com/in/lukedias/
 [whatsapp]: https://wa.me/5521983448013
