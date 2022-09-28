@@ -1,9 +1,7 @@
-# Hello , I'm Luke Dias ✨
+### Hello , I'm Luke Dias ✨
+<img align="right" alt="GIF" height="128px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media3.giphy.com/media/qeLWzpr90oheh8Ugzt/giphy.gif?cid=790b7611c683f4351ae62ac1e7c813e1f5f06cb0c1318402&rid=giphy.gif&ct=g" />
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-## I'm a Software Engineer!
+### I am a Software Engineer, and here's some stuff about me:
 
 - 👨‍💻 I’m currently working for [Zerezes](https://zerezes.com.br/pages/sobre) as a C# Developer!.
 - 🌱 I’m currently studying [Microservices in .NET](https://www.manning.com/books/microservices-in-net-second-edition?utm_source=twitter&utm_medium=organic&utm_campaign=book_horsdal_microservices_3_11_20).
@@ -19,7 +17,7 @@
 <br/>
 
 ### Languages and Tools 🛠 
-<div style="display: inline_block"><br>
+<div style="display: inline">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -30,7 +28,6 @@
   <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
-<br/>
 
 ### Github Statistics 📈
 <div align="center"> 
