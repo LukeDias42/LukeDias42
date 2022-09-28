@@ -8,7 +8,7 @@
 - 💪🏼 Future Study Goals: DDD, TDD, Functional Programming, Assembly, Architecture, Clean Code, Concurrency
 - ⚡ Other Interests: I love reading Sci-Fi and Fantasy Fiction, playing videogames and  watching movies!
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LukeDias42&repo=LukeDias42&countColorcountColor&countColor=%237B1E7B"/>
+[//]: <> (<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LukeDias42&repo=LukeDias42&countColorcountColor&countColor=%237B1E7B"/>)
 
 ### Contact with me 📝
 [<img align="left" alt="HollowWizard | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
