@@ -35,7 +35,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LukeDias42&show_icons=true&theme=tokyonight&count_private=true" />
   </a>
   <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&layout=compact&langs_count=8&theme=dark&hide=shader,scss,html,css&count_private=true"/>
+    <img align="center" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&layout=compact&langs_count=8&theme=dark&hide=shader,scss,html,css&count_private=true"/>
   </a>
 </div
 
