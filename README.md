@@ -4,8 +4,8 @@
 ### I am a Software Engineer, and here's some stuff about me:
 
 - 👨‍💻 I’m currently working for [Hurb](https://zerezes.com.br/pages/sobre) as a Software Engineer!.
-- 🌱 I’m currently studying [Golang]([https://www.manning.com/books/microservices-in-net-second-edition?utm_source=twitter&utm_medium=organic&utm_campaign=book_horsdal_microservices_3_11_20](https://www.manning.com/books/go-in-action?trk_msg=I253VRHDOV3K99P2KLVFGBO4E4&trk_contact=40O0SRUHJP4B1V914RHL62L0UK&trk_sid=B0T3V21LTICRJ030U7ET2TO4BC&trk_link=7T37ALLCBD84PDDBDUED0K3U14&utm_source=Listrak&utm_medium=Email&utm_term=https%3a%2f%2fwww.manning.com%2fbooks%2fgo-in-action&utm_campaign=December+15%3a+Go+Day!)).
-- 💪🏼 Future Study Goals: DDD, TDD, Functional Programming, Assembly, Architecture, Clean Code, Concurrency
+- 🌱 I’m currently reading Introduction to Algorithms.
+- 💪🏼 Future Study Goals: DDD, TDD, Functional Programming, Assembly, Architecture, Clean Code, Concurrency.
 - ⚡ Other Interests: I love reading Sci-Fi and Fantasy Fiction, playing videogames and  watching movies!
 
 [//]: <> (<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LukeDias42&repo=LukeDias42&countColorcountColor&countColor=%237B1E7B"/>)
