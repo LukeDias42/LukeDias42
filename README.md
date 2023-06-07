@@ -30,14 +30,8 @@
 </div>
 
 ### Github Statistics 📈
-<div align="center"> 
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LukeDias42&show_icons=true&theme=monokai&count_private=true" />
-  </a>
-  <a href="">
-    <img align="center" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&layout=compact&langs_count=8&theme=monokai&hide=shader,scss,html,css&count_private=true"/>
-  </a>
-</div
+![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=monokai&include_all_commits=true&count_private=true&show_icons=true&username=LukeDias42)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&layout=compact&langs_count=8&theme=monokai&hide=shader,scss,html,css&count_private=true)
 
 [linkedin]: https://www.linkedin.com/in/lukedias/
 [whatsapp]: https://wa.me/5521983448013
