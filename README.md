@@ -1,8 +1,7 @@
-### Hello , I'm Luke Dias ✨
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+## Hello, I'm Luke Dias ✨
+<img align="right" alt="Random Walk gif" height="200px" src="random_walk_beginning.gif" />
 
 ### Stuff about me 🧐
-
 - 👨‍💻 Currently working for *[Hurb](https://zerezes.com.br/pages/sobre)* as a *Software Engineer*!;
 - 🌱 Currently reading: *The Go Programming Language*;
 - 💪🏼 Next Study Goals: *Learn You a Haskell for Great Good!*;
@@ -10,8 +9,6 @@
 - 🧙 Getting Good at: *Rust*, *Haskell*, *JavaScript*, *Advanced Algorithms*;
 - 🕵🏻‍♂️ Current Facinations: *Image Processing*, *Noise*, *Fractals*;
 - ⚡ Other Interests: *Sci-Fi*, *High and Low Fantasy*, *Boardgames*, *Videogames* and *movies*!
-
-[//]: <> (<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LukeDias42&repo=LukeDias42&countColorcountColor&countColor=%237B1E7B"/>)
 
 ### Find me at 📝
 [<img align="left" alt="Luke Dias | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>][linkedin]
