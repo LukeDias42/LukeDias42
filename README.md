@@ -31,7 +31,7 @@
 
 ### Github Statistics 📈
 ![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=monokai&include_all_commits=true&count_private=true&show_icons=true&username=LukeDias42)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&layout=compact&langs_count=8&theme=monokai&hide=shader,scss,html,css&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDias42&layout=compact&hide_border=true&langs_count=8&theme=monokai&hide=shader,scss,html,css&count_private=true)
 
 [linkedin]: https://www.linkedin.com/in/lukedias/
 [whatsapp]: https://wa.me/5521983448013
