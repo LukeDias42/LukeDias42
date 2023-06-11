@@ -7,7 +7,7 @@
 - 💪🏼 Next Study Goals: *Learn You a Haskell for Great Good!*;
 - 🧙‍♂️ Good at: *C#*, *MySQL*, *System Design*;
 - 🧙 Getting Good at: *Rust*, *Haskell*, *JavaScript*, *Advanced Algorithms*;
-- 🕵🏻‍♂️ Current Facinations: *Image Processing*, *Noise*, *Fractals*;
+- 🕵🏻‍♂️ Current Fascinations: *Image Processing*, *Noise*, *Fractals*;
 - ⚡ Other Interests: *Sci-Fi*, *High and Low Fantasy*, *Boardgames*, *Videogames* and *movies*!
 
 ### Find me at 📝
