@@ -17,10 +17,6 @@
 [<img align="left" alt="Luke Dias | Exercism" height="30px" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/exercism-face-gradient-31ce1b1261c54ead735cf687a2dc8549b3d00bb1.svg"/>][exercism]
 <br/>
 
-### Github Statistics 📈
-![GitHub stats](https://github-readme-stats-bernardolm.vercel.app/api?hide_border=true&theme=monokai&include_all_commits=true&count_private=true&show_icons=true&username=LukeDias42)
-![Most Used Languages](https://github-readme-stats-bernardolm.vercel.app/api/top-langs/?username=LukeDias42&layout=compact&hide_border=true&langs_count=8&theme=monokai&hide=shader,scss,html,css&count_private=true)
-
 [linkedin]: https://www.linkedin.com/in/lukedias/
 [whatsapp]: https://wa.me/5521983448013
 [medium]: https://medium.com/@lhollowwizard
