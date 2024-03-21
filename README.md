@@ -18,6 +18,5 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/lukedias/
-[whatsapp]: https://wa.me/5521983448013
 [medium]: https://medium.com/@lhollowwizard
 [exercism]: https://exercism.org/profiles/LukeDias42
