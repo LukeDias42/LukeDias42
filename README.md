@@ -1,5 +1,4 @@
 ## Hello, I'm Luke Dias ✨
-<img align="right" alt="Random Walk gif" height="200px" src="random_walk_middle.gif" />
 
 ### Stuff about me 🧐
 - 👨‍💻 Currently working for *[Hurb](https://zerezes.com.br/pages/sobre)* as a *Software Engineer*!;
