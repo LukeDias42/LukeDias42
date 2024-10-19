@@ -1,10 +1,11 @@
 ## Hello, I'm Luke Dias ✨
 
 ### Stuff about me 🧐
-- 👨‍💻 Currently working for *[Hurb](https://zerezes.com.br/pages/sobre)* as a *Software Engineer*!;
-- 🌱 Currently reading: *The Go Programming Language*;
-- 💪🏼 Next Study Goals: *Learn You a Haskell for Great Good!*;
-- 🧙‍♂️ Good at: *C#*, *MySQL*, *System Design*;
+- 👨‍💻 Currently working for *[Hurb](https://www.hurb.com/br/)* as a *Software Engineer*!;
+- 🌱 Currently doing: *A Forum Project*;
+- 🎓 Currently studying: *SQL*
+- 💪🏼 Next Study Goals: *C*;
+- 🧙‍♂️ Good at: *Go*, *JavaScript*, *C#*, *SQL*, *System Design*;
 - 🧙 Getting Good at: *Rust*, *Haskell*, *JavaScript*, *Advanced Algorithms*;
 - 🕵🏻‍♂️ Current Fascinations: *Image Processing*, *Noise*, *Fractals*;
 - ⚡ Other Interests: *Sci-Fi*, *High and Low Fantasy*, *Boardgames*, *Videogames* and *movies*!
