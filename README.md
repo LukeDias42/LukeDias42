@@ -1,10 +1,10 @@
 ## Hello, I'm Luke Dias ✨
 
 ### Stuff about me 🧐
-- 👨‍💻 Currently working for *[Hurb](https://www.hurb.com/br/)* as a *Software Engineer*!;
+- 👨‍💻 Currently working for *[Nu](https://nubank.com.br/)* as a *Senior Software Engineer*!;
 - 🌱 Currently doing: *A Forum Project*;
-- 🎓 Currently studying: *SQL*
-- 💪🏼 Next Study Goals: *C*;
+- 🎓 Currently studying: *Clojure*
+- 💪🏼 Next Study Goals: *Note Taking*;
 - 🧙‍♂️ Good at: *Go*, *JavaScript*, *C#*, *SQL*, *System Design*;
 - 🧙 Getting Good at: *Rust*, *Haskell*, *JavaScript*, *Advanced Algorithms*;
 - 🕵🏻‍♂️ Current Fascinations: *Image Processing*, *Noise*, *Fractals*;
